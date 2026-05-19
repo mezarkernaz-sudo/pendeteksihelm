@@ -183,7 +183,7 @@ id,nama,kategori
 # 👨‍💻 Author
 
 Nama: mezarkernaz
-GitHub:
+GitHub:https://mezarkernaz-sudo.github.io/pendeteksihelm/
 
 ---
 
